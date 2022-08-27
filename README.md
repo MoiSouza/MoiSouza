@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Moisés S De Souza
-- 👀 i'm interested to work on frontend development like home office
+- 👀 i'm interested to work  development like home office
 - 🌱 I’m currently learning ...
 - 💞️ I try to collaborate on any project for my learning, which can be java script, HTML or CSS
 - 📫 E-mail: moises062498@gmail.com
